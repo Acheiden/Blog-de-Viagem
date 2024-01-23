@@ -1,0 +1,32 @@
+#fundos{
+    text-align: center;
+    background: linear-gradient(0deg, rgb(43, 205, 28) 0%, rgba(255,255,255,1) 100%);
+}
+
+
+
+.imgJogos{
+    border-style: ridge;
+    border-color: black;
+    border-radius: 5px;
+    height: 400px;
+    margin-bottom: 10%;
+}
+
+.logo{
+    height:250px;
+}
+
+.youtube{
+    text-decoration: none;
+    text-align: left;
+    color: black;
+}
+
+.logo2{
+    height:150px;
+}
+
+.colornav{
+    background-color:  rgb(43, 205, 28) ;
+}
